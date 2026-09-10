@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+button{
+    font-size: 28px;
+    font: "Helvetica" "Times New Roman" sans-serif;
+}
+
+.yes{
+    background-color: black;
+    color: rgb(100% 100% 100%);
+}
+
+.no{
+    background-color: hsl(70, 87%, 56%);
+}
